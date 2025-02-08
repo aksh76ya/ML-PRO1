@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.emoji {
+    font-size: 5rem;
+    display: block;
+    margin-top: 10px;
+}
